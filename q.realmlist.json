@@ -1,0 +1,22 @@
+{
+    "keywords": [
+        "elk",
+        "defi",
+        "q"
+    ],
+    "name": "Elk Q Realm",
+    "timestamp": "2024-08-01T17:42:41+00:00",
+    "realms": [
+        {
+            "id": 30,
+            "address": "0x796a8F6F0Ed40BBfBf758CcC02244Be41c592D05",
+            "type": "erc20",
+            "whitelist": "verified"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}

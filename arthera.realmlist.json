@@ -2,14 +2,14 @@
     "keywords": [
         "elk",
         "defi",
-        "q"
+        "arthera"
     ],
-    "name": "Elk Q Realms",
+    "name": "Elk Arthera Realms",
     "timestamp": "2024-08-01T17:42:41+00:00",
     "realms": [
         {
-            "id": 30,
-            "address": "0x796a8F6F0Ed40BBfBf758CcC02244Be41c592D05",
+            "id": 20,
+            "address": "0x6ebC9368a8d3aa80D9E9d314ea2f65212109aCFa",
             "type": "erc20",
             "whitelist": "verified"
         }
